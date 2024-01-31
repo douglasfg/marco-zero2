@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(164, 198, 230);
+}
+
+footer{
+    background-color: black;
+}
+h1{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding-left: 40%;
+    margin-top: 0px;
+    font-size: 400%;
+}
+.escrita-rodape{
+    color: aliceblue;
+}
+
+.redirecionamento{
+    background-color: rgb(164, 198, 230);
+    color: azure;
+    width: 25%;
+}
+.imagem-1{
+    padding-bottom: 0%;
+    flex-direction: center;
+    padding-left: 380px;
+    align-items: center;
+    border-radius: 10px;
+}
+.imagem-2{
+    padding-left: 250px;
+    align-items: center;
+    border-radius: 10px;
+}
+.imagem-3{
+    padding-left: 350px;
+}
